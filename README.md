@@ -137,16 +137,3 @@ The trained model is deployed using **Streamlit** as an interactive web applicat
 
 This makes the project practical and user-friendly.
 
----
-
-## 📁 Project Structure
-
-```
-waste-classification-project/
-│
-├── web stream waste up.py # Streamlit web application
-├── waste_classifier.keras # Trained deep learning model
-├── model_training.ipynb # Model training & experimentation
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-```
